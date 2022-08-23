@@ -1,3 +1,7 @@
-bug1
-bug2
-bug3
+<?xml version="1.0" encoding="utf-8"?>
+<Bug Report>
+  <id>23</id>
+  <priority>High</priority>
+  <summary>Error</summary>
+  <description>error loading</description>
+</Bug Report>
