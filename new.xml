@@ -1,4 +1,10 @@
-Hanna Sherbinina, 36
-2 pets
-$$$$
+<?xml version="1.0" encoding="utf-8"?>
+<heading>About Me</heading>
+<body>
+	<Name>Hanna</Name>
+	<Surname>Shcherbinina</Surname>
+	<Age>36</Age>
+	<Pets>2</Pets>
+	<Salary>2000</Salary>
+</body>
 

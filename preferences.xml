@@ -1,5 +1,8 @@
-detective films and series
-dishes with meat
-spring
-New Zealand
-
+<?xml version="1.0" encoding="utf-8"?>
+<heading>About Me</heading>
+<body>
+	<films>detective</films>
+	<dishes>meat</dishes>
+	<season>spring</season>
+	<country>New Zealand</country>
+</body>
